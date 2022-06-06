@@ -7,5 +7,6 @@ Output will come out as a txt file under the name “results_n=size_a” and pri
 
 
 ### Part 2:
-In order to run the code with a specific graph and size create a txt file called ‘graph’ and write ‘size=n’ where n I the desired size, and then in new lines write each edge that graph has. Run the code which is called "ex1a.py". 
+In order to run the code with a specific graph and size create a txt file called ‘graph’ and write ‘size=n’ where n I the desired size, and then in new lines write each edge that graph has. Run the code which is called "ex1a.py".
+
 Output will come out as a txt file under the name “results_n=size_b” and print to the terminal.
